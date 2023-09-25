@@ -18,4 +18,8 @@ pip -r requirements.txt
 5 - Execute o projeto:
 py [diretódio do projeto]/app.py
 
+6 - Api externa Documentação.
+Foi usada uma api gratuita para validar o cep do usuário e cadastrar o endereço.
+A documentação dessa api poderá ser visualizada em https://viacep.com.br/
+
 Acesse: http://127.0.0.1:5001
