@@ -26,7 +26,7 @@ Rota: https://viacep.com.br/ws/20031911/json/
 
 Acesse: http://127.0.0.1:5001
 
-Abaixo a collection que foi utilizada
+Abaixo a collection do postman que foi utilizada
 
 https://drive.google.com/file/d/1INi-_LN_ZC7u5IbUVR8nYlqSY3TQoDpl/view?usp=drive_link
 
