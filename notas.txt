@@ -1,0 +1,8 @@
+
+Comandos.
+Para criar as migrations
+flask db init 
+flask db upgrade
+
+Instalar o alchemy
+pip install sqlalchemy flask-sqlalchemy
