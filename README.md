@@ -28,7 +28,9 @@ Acesse: http://127.0.0.1:5001
 
 Abaixo a collection que foi utilizada
 
-[Uploading user-store.postman_collection.json…]()
+https://drive.google.com/file/d/1INi-_LN_ZC7u5IbUVR8nYlqSY3TQoDpl/view?usp=drive_link
+
+
 
 
 
