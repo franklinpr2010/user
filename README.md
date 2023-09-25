@@ -21,7 +21,12 @@ Este pequeno projeto é parte do material didático da disciplina Desenvolviment
 6 - Api externa Documentação.
 <br /> Foi usada uma api gratuita para validar o cep do usuário e cadastrar o endereço.
 A documentação dessa api poderá ser visualizada em https://viacep.com.br/
+
 Rota: https://viacep.com.br/ws/20031911/json/
 
-
 Acesse: http://127.0.0.1:5001
+
+Abaixo a collection que foi utilizada
+
+
+
