@@ -1,5 +1,5 @@
 
-# user api
+# User api
 Este pequeno projeto é parte do material didático da disciplina Desenvolvimento Full Stack Avançado da PUC-Rio. Está api se destina ao cadastro de usuários  para que o cliente consuma no carrinho de compras.
 
 <br />Rode os seguintes comandos na maquina local:
